@@ -36,9 +36,7 @@
       <defaultOutfitTags>
         <li>Worker</li>
       </defaultOutfitTags>
-      <hatRenderedFrontOfFace>true</hatRenderedFrontOfFace>
-      <hatRenderedAboveBody>true</hatRenderedAboveBody>
-      <hatRenderedBehindHead>true</hatRenderedBehindHead>
+   
 	  <countsAsClothingForNudity>false</countsAsClothingForNudity>
       <canBeDesiredForIdeo>true</canBeDesiredForIdeo>
       <canBeGeneratedToSatisfyWarmth>false</canBeGeneratedToSatisfyWarmth>
